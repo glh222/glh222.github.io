@@ -1,12 +1,14 @@
 body {
 	background-color: black;
 	color:#ffffff;
+	text-align: center;
 }
 
 h1 {
 	color: red;
 	font-family: Arial, sans-serif;
 	font-size: 30px;
+	text-transform: uppercase;
 }
 
 p #slogan {
