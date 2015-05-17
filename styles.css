@@ -5,8 +5,8 @@ body {
 
 h1 {
 	color: red;
-	text-align: center;
-	text-transform: uppercase;
+	font-family: Arial, sans-serif;
+	font-size: 30px;
 }
 
 #slogan {
