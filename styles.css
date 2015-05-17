@@ -21,3 +21,8 @@ p {
 	font-style: italic;
 	font-size: 28px;
 }
+ul {
+	text-transform: uppercase;
+	text-align: left;
+	color: red;
+}
