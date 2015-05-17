@@ -17,9 +17,13 @@ h2 {
 }
 
 #slogan {
+	color: red;
 	font-weight: bold;
 	font-style: italic;
 	font-size: 28px;
+	text-transform: capitalize;
+	text-transform: uppercase;
+	background-color: black;
 }
 
 ul {
