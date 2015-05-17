@@ -11,6 +11,11 @@ h1 {
 	text-transform: uppercase;
 }
 
+h2 {
+	color: red;
+	font-size: 22px;
+}
+
 p #slogan {
 	font-weight: bold;
 	font-style: italic;
