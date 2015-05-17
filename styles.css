@@ -16,11 +16,13 @@ h2 {
 	font-size: 22px;
 }
 
-p {
+p #slogan
+{
 	font-weight: bold;
 	font-style: italic;
 	font-size: 28px;
 }
+
 ul {
 	text-transform: uppercase;
 	text-align: left;
