@@ -24,6 +24,9 @@ h2 {
 	text-transform: capitalize;
 	text-transform: uppercase;
 	background-color: black;
+	border-color: blue;
+	border-style:outset;
+	line-height: 1.5;
 }
 
 ul {
