@@ -1,5 +1,7 @@
 body {
+	color:#333;
 	text-align: center;
+	font-size:16px;
 }
 section#splash {
 	background-image:url(Images/Maserati2.jpg);
@@ -8,37 +10,29 @@ section#splash {
 	height:100vh;
 }
 h1 {
-	color: red;
+	color: #fff;
 	font-family: Arial, sans-serif;
-	font-size: 30px;
+	font-size: 2em;
 	text-transform: uppercase;
 }
 
 h2 {
-	color: red;
-	font-size: 22px;
+	color: #fff;
+	font-size: 1.5em;
 }
 
 #slogan {
-	color: red;
+	color: #fff;
 	font-weight: bold;
 	font-style: italic;
-	font-size: 28px;
-	text-transform: capitalize;
+	font-size: 1.5em;
 	text-transform: uppercase;
 	background-color: black;
-	border-color: blue;
-	border-style:outset;
-	line-height: 1.5;
+	line-height: 1.5em;
 }
 
 ul {
 	text-transform: uppercase;
 	text-align: left;
 	color: red;
-}
-
-p {
-	color:blue
-	font-size:20;
 }
