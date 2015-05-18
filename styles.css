@@ -1,6 +1,7 @@
 body {
-	background src="Images/Maserati2.jpg">
-	background-size: inherit
+	background src="Images/Maserati2.jpg">;
+	background-size: 60%;
+	background-repeat: no-repeat;
 	text-align: center;
 }
 
