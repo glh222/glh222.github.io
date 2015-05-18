@@ -1,7 +1,6 @@
 body {
 	background src="Images/Maserati2.jpg">
-	background-size:200px;
-	color: black;
+	background-size: inherit
 	text-align: center;
 }
 
