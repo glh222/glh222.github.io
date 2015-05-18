@@ -1,10 +1,12 @@
 body {
-	background src=("Images/Maserati2.jpg");
-	background-size: 60%;
-	background-repeat: no-repeat;
 	text-align: center;
 }
-
+section#splash {
+	background-image:url(Images/Maserati2.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:100vh;
+}
 h1 {
 	color: red;
 	font-family: Arial, sans-serif;
