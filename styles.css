@@ -1,6 +1,6 @@
 body {
 	background src="Images/Maserati2.jpg">
-	background-size: cover;
+	background-size: contain;
 	color:#ffffff;
 	text-align: center;
 }
