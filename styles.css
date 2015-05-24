@@ -1,7 +1,7 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
 	color:#333;
-	text-align: left;
+	text-align: center;
 	font-size:14px;
 	font-family: 'Lato', sans-serif;
 }
@@ -20,7 +20,7 @@ h1 {
 
 h2 {
 	color: #fff;
-	font-size: 1.5em;
+	font-size: 1em;
 }
 
 #slogan {
@@ -30,7 +30,7 @@ h2 {
 	font-size: 2.5em;
 	text-transform: uppercase;
 	background-color: black;
-	line-height: 2.5em;
+	line-height: 1.5em;
 	font-family: 'Lato', sans-serif;
 }
 
