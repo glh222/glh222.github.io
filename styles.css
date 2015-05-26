@@ -1,15 +1,28 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
 	color:#333;
-	text-align: center;
+	text-align: left;
 	font-size:20px;
 	font-family: 'Lato', sans-serif;
+}
+
+#header {
+	text-align: center;
+	color: black;
+	font-size: 24px;
+	text-transform: uppercase;
 }
 section#splash {
 	background-image:url(Images/Maserati2.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
 	height:100vh;
+}
+
+#footer {
+	font-size:24px;
+	color: blue;
+	background-color: gray;
 }
 h1 {
 	color: #fff;
@@ -40,8 +53,3 @@ p {
 	font-size: 1em;
 }
 
-ul {
-	text-transform: uppercase;
-	text-align: left;
-	color: red;
-}
