@@ -12,6 +12,8 @@ header {
 	font-style: italic;
 	text-transform: uppercase;
 	font-family: 'Lato', sans-serif;
+	background-color:#002030;
+	color:#999999
 }
 section#splash {
 	background-image:url(Images/Maserati2.jpg);
@@ -26,6 +28,8 @@ section#secondary {
 	font-style: italic;
 	text-transform: uppercase;
 	font-family: 'Lato', sans-serif;
+	color:#99999;
+	background-color:#999999
 }
 
 footer {
