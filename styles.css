@@ -25,6 +25,7 @@ section#splash {
 section#secondary {
 	background-image:url(Images/Maserati1.jpg);
 	background-repeat:no-repeat;
+	background-size:cover;
 	text-align: center;
 	font-weight: bold;
 	font-style: italic;
