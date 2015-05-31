@@ -24,13 +24,9 @@ section#splash {
 }
 section#secondary {
 background-image:url(Images/Maserati1.jpg);
-	background-repeat:repeat;
-	text-align: center;
-	font-weight: bold;
-	font-style: italic;
-	text-transform: uppercase;
-	font-family: 'Lato', sans-serif;
-	color: blue 
+	background-repeat:no-repeat;
+	background-size: cover;
+	height:100vh;	
 }
 
 section#wrapper {
