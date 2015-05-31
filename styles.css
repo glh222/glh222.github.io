@@ -33,9 +33,9 @@ background-image:url(Images/Maserati1.jpg);
 	color: blue 
 }
 
-div#gtseats {
-background-image: url(Images/Gtseats.jpg);
-	background-repeat:repeat;
+#wrapper {
+	background-image: url(Images/Gtseats.jpg);
+	width: 1000px
 	font-weight: bold;
 	text-align: center;
 	text-transform: uppercase;
