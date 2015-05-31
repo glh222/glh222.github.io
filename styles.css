@@ -33,7 +33,7 @@ background-image:url(Images/Maserati1.jpg);
 	color: blue 
 }
 
-section#wrapper {
+#wrapper {
 	background-image:url(Images/GT.jpg);
 	background-repeat: repeat;
 	background-size: cover;
