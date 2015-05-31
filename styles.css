@@ -31,7 +31,7 @@ background-image:url(Images/Gtseats.jpg);
 
 section#wrapper {
 	background-image:url(Images/gt2.jpg);
-	background-repeat: repeat;
+	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100vh;
 }
