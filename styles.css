@@ -36,11 +36,12 @@ background-image:url(Images/Maserati1.jpg);
 section#wrapper {
 	background-image:url(Images/GT.jpg);
 	background-repeat: repeat;
-	font-weight: bold;
 	text-align: center;
+	font-weight: bold;
+	font-style: italic;
 	text-transform: uppercase;
 	font-family: 'Lato', sans-serif;
-	color:blue;
+	color: blue 
 }
 
 footer {
