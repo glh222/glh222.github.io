@@ -23,7 +23,7 @@ section#splash {
 	height:100vh;
 }
 section#secondary {
-background-image:url(Images/Gtseats.jpg);
+	background-image:url(Images/Gtseats.jpg);
 	background-repeat:no-repeat;
 	background-size: cover;
 	height:100vh;	
