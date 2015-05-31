@@ -36,6 +36,7 @@ background-image:url(Images/Maserati1.jpg);
 section#wrapper {
 	background-image:url(Images/GT.jpg);
 	background-repeat: repeat;
+	background-size: cover;
 	text-align: center;
 	font-weight: bold;
 	font-style: italic;
