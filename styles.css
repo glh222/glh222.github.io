@@ -33,6 +33,14 @@ background-image:url(Images/Maserati1.jpg);
 	color: blue 
 }
 
+div#gtseats {
+	background-image: url(Images/gtseats.jpg)
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Lato', sans-serif;
+	color:blue;
+}
+
 footer {
 	color: blue;
 	background-color: gray;
