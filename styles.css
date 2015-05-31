@@ -19,20 +19,20 @@ section#splash {
 	background-image:url(Images/Maserati2.jpg);
 	text-align: center;
 	background-repeat:no-repeat;
-	background-size:cover;
+	background-size:contain;
 	height:100vh;
 }
 section#secondary {
 background-image:url(Images/Gtseats.jpg);
 	background-repeat:no-repeat;
-	background-size: cover;
+	background-size: contain;
 	height:100vh;	
 }
 
 section#wrapper {
 	background-image:url(Images/gt2.jpg);
 	background-repeat: repeat;
-	background-size: cover;
+	background-size: contain;
 	height: 100vh;
 }
 
