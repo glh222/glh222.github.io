@@ -33,7 +33,7 @@ background-image:url(Images/Maserati1.jpg);
 	color: blue 
 }
 
-#wrapper {
+section#wrapper {
 	background-image:url(Images/Gtseats.jpg);
 	font-weight: bold;
 	text-align: center;
