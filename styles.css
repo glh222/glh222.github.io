@@ -34,7 +34,7 @@ background-image:url(Images/Maserati1.jpg);
 }
 
 #wrapper {
-	background:url(Images/Gtseats.jpg);
+	background-image:url(Images/Gtseats.jpg);
 	font-weight: bold;
 	text-align: center;
 	text-transform: uppercase;
