@@ -42,6 +42,7 @@ section#maincontent {
 section#models {
 	background-image:url(Images/gtsport.jpg);
 	float:left;
+	background-size: 10px
 }
 
 section#wrapper {
