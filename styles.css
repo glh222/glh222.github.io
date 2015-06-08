@@ -21,10 +21,15 @@ section#splash {
 	background-repeat:no-repeat;
 	background-size:cover;	
 	height: 100vh;
+}
 
-section#splash p {
+section#splash2 {
 	font-size: 16px;
 	position-bottom center;
+	line-height: 1em;
+	font-weight: bold;
+	text-align: center;
+	color: blue;
 }
 section#maincontent {
 	background-image: url(Images/Maserati3.jpg);
