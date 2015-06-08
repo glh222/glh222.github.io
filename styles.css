@@ -41,15 +41,7 @@ section#maincontent {
 
 section#models {
 	background-image:url(Images/gtsport.jpg);
-	margin:0 auto;
-	border-radius:.5em;
-	color:#fff;
 	float:left;
-	margin:.5%;
-	min-height:16em;
-	padding:1em 2em 1em 1em;
-	text-align:justify;
-	width:49%;
 }
 
 section#wrapper {
