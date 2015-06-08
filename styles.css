@@ -41,8 +41,9 @@ section#maincontent {
 
 section#models {
 	background-image:url(Images/gtsport.jpg);
+	background-repeat: no-repeat;
 	float:left;
-	background-size: 10px
+	background-size: cover;
 }
 
 section#wrapper {
