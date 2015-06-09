@@ -38,7 +38,10 @@ section#maincontent {
 	padding-bottom: 3.5em;
 }
 
-section#models {
+section#models 
+	img {
+		width:18%;
+		float: left;
 }
 
 footer {
