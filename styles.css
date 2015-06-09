@@ -39,10 +39,14 @@ section#maincontent {
 
 section#models 
 	img {
-		width:18%;
-		float: left;
+		width:100%;
 }
 
+#models>section {
+	width: 33.33%
+	float: left;
+	padding:.4em;
+}
 footer {
 	color: blue;
 	background-color: gray;
