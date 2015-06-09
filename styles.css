@@ -37,13 +37,13 @@ section#maincontent {
 	padding-bottom: 3.5em;
 }
 
-section#models 
+#models 
 	img {
 		width:100%;
 }
 
 #models>section {
-	width: 33.33%
+	width: 15%;
 	float: left;
 	padding:.4em;
 }
