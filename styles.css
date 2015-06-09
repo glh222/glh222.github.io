@@ -13,7 +13,7 @@ header {
 	text-transform: uppercase;
 	font-family: 'Lato', sans-serif;
 	background-color:#002030;
-	color:#999999
+	color:#999999;
 }
 section#splash {
 	background-image:url(Images/Maserati22.jpg);
@@ -24,8 +24,7 @@ section#splash {
 }
 
 section#splash2 {
-	font-size: 16px;
-	position-bottom center;
+	font-size: .8em;
 	line-height: 1em;
 	font-weight: bold;
 	text-align: center;
@@ -34,33 +33,22 @@ section#splash2 {
 section#maincontent {
 	background-image: url(Images/Maserati3.jpg);
 	background-repeat: no-repeat;
-	background position: top center;
-	padding-top: 68px;
-	padding-bottom: 68px
+	background-position: top center;
+	padding-top: 3.5em;
+	padding-bottom: 3.5em;
 }
 
 section#models {
-	background-image:url(Images/gtsport.jpg);
-	background-repeat: no-repeat;
-	float:left;
-	background-size: cover;
-}
-
-section#wrapper {
-	background-image:url(Images/gt2.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
-	height: 20px;
 }
 
 footer {
 	color: blue;
 	background-color: gray;
-
+}
 
 h1 {
 	font-family: Arial, sans-serif;
-	font-size: 35px;
+	font-size: 2em;
 	text-transform: uppercase;
 }
 
@@ -75,9 +63,12 @@ p {
 	text-align: left;
 	background-color: gray;
 	line-height: 1.2em;
-	letter-spacing: 2px
+	letter-spacing: 2px;
 }
-
+.wrapper {
+	max-width:60em;
+	margin:auto;
+}
 .clearfix:after { 
 	content: "."; 
 	visibility: hidden; 
