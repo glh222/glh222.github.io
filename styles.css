@@ -47,6 +47,7 @@ section#maincontent {
 #models 
 	img {
 		width:100%;
+		padding: .8em;
 }
 
 #models>section {
