@@ -45,7 +45,7 @@ section#maincontent {
 #models>section {
 	width: 16%;
 	float: left;
-	padding:.8.em;
+	padding:.8em;
 	border: 2px;
 	border-color: black;
 }
@@ -67,7 +67,6 @@ h2 {
 	font-family: 'Lato', sans-serif;
 	font-weight: bold;
 }
-
 
 p {
 	color: #fff;
