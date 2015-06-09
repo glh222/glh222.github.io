@@ -43,9 +43,11 @@ section#maincontent {
 }
 
 #models>section {
-	width: 15%;
+	width: 16%;
 	float: left;
-	padding:.5.em;
+	padding:.8.em;
+	border: 2px;
+	border-color: black;
 }
 footer {
 	color: blue;
