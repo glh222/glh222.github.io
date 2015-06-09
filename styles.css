@@ -45,7 +45,7 @@ section#maincontent {
 #models>section {
 	width: 15%;
 	float: left;
-	padding:.4em;
+	padding:.5.em;
 }
 footer {
 	color: blue;
@@ -59,8 +59,11 @@ h1 {
 }
 
 h2 {
-	font-size: 2em;
+	font-size: 2.5em;
 	line-height:1.3em;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
 }
 
 
