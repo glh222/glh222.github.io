@@ -29,14 +29,6 @@ section#splash {
 	height: 100vh;
 }
 
-section#maincontent {
-	background-image: url(Images/Maserati3.jpg);
-	background-repeat: no-repeat;
-	background-position: top center;
-	padding-top: 3.5em;
-	padding-bottom: 3.5em;
-}
-
 #models 
 	img {
 		width:100%;
@@ -54,6 +46,7 @@ section#maincontent {
 	border: 2px;
 	border-color: black;
 }
+
 footer {
 	color: blue;
 	background-color: gray;
