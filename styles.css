@@ -37,7 +37,7 @@ section#splash {
 		padding:.5em, auto;
 		margin: .5em;
 		box-sizing; 1em;
-		background-color:gray;
+		background-color:#c7ccf;
 }
 
 #models>section {
@@ -51,7 +51,9 @@ section#splash {
 
 footer {
 	color: blue;
-	background-color: gray;
+	background-color: #c7ccf;
+	text-align: center;
+	width: 100%;
 }
 
 h1 {
@@ -63,7 +65,7 @@ h1 {
 	font-weight; bold;
 }
 
-h2 {
+h3 {
 	font-size: 2.5em;
 	line-height:1.3em;
 	text-align: center;
