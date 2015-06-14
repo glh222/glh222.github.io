@@ -54,9 +54,12 @@ footer {
 }
 
 h1 {
-	font-family: Arial, sans-serif;
+	font-family: Lobster 2, cursive;
 	font-size: 2em;
 	text-transform: uppercase;
+	color blue;
+	opacity: 0.6;
+	font-weight; bold;
 }
 
 h2 {
