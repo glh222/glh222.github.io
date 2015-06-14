@@ -25,6 +25,7 @@ header {
 section#splash {
 	background-image:url(Images/Maserati22.jpg);
 	text-align: center;
+	font-family: 'Lobster 2, cursive;
 	background-repeat:no-repeat;
 	background-size:cover;	
 	height: 100vh;
