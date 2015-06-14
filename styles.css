@@ -29,13 +29,6 @@ section#splash {
 	height: 100vh;
 }
 
-section#splash2 {
-	font-size: .8em;
-	line-height: 1em;
-	font-weight: bold;
-	text-align: center;
-	color: blue;
-}
 section#maincontent {
 	background-image: url(Images/Maserati3.jpg);
 	background-repeat: no-repeat;
