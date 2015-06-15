@@ -25,6 +25,20 @@ header {
 	background-color:#002030;
 	color:#999999;
 }
+
+nav {
+	font-family: 'Lobster 2, cursive;
+	background-color: #c7ccf;
+	font-weight 1000;
+}
+
+a {
+	background-color: gray;
+	display: block;
+	color: black;
+	text-decoration: none;
+}
+
 section#splash {
 	background-image:url(Images/Maserati22.jpg);
 	text-align: center;
