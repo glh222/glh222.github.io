@@ -29,28 +29,9 @@ header {
 nav {
 	font-family: 'Lobster 2, cursive;
 	background-color: #c7ccf;
-	font-weight 1000;
-}
-
-a {
-	background-color: gray;
-	display: block;
-	color: black;
-	text-decoration: none;
-	float: left;
-	padding:20px;
-}
-
-a:hover {
-	background-color: #aaaaaa;
-}
-
-section#splash {
-	background-image:url(Images/Maserati22.jpg);
-	text-align: center;
-	font-family: 'Lobster 2, cursive;
+	background-image: url(Images/Maserati22.jpg);
 	background-repeat:no-repeat;
-	background-size:cover;	
+	background-size: cover;
 	height: 100vh;
 }
 
@@ -62,6 +43,15 @@ section#splash {
 		box-sizing; 1em;
 		background-color:#c7ccf;
 }
+a {
+	font-weight: 1000;
+	background-color: gray;
+	display: block;
+	color: black;
+	text-decoration: none;
+	float: left;
+	padding:20px;
+}
 
 #models>section {
 	width: 16%;
@@ -70,6 +60,10 @@ section#splash {
 	border: 2px;
 	border-color: black;
 	background-color: #c7ccf;
+}
+
+a:hover {
+	background-color: #aaaaaa;
 }
 
 footer {
