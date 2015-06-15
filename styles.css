@@ -1,16 +1,19 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
-	color:#333;
-	font-size:20px;
-	font-family: 'Lobster Two', cursive;
+  font-size: 20px;
+  font-family: 'Lobster Two', cursive;
+  font-size: 22px;
+  color: black;
+  font-weight: bold;
 }
 
 .slogan { 
 	text-align: center;
 	font-family: 'Lobster 2', cursive;
 	font-weight: 800;
-	line-height: 35px;
+	line-height: 40px;
 	background-color: #c7ccf
+	font-size: 16px;
 }
 
 header {
