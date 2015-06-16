@@ -29,10 +29,20 @@ header {
 nav {
 	font-family: 'Lobster 2, cursive;
 	background-color: #c7ccf;
+}
+
+a {
+	font-weight: 1000;
 	background-image: url(Images/Maserati22.jpg);
 	background-repeat:no-repeat;
 	background-size: cover;
 	height: 100vh;
+	background-color: gray;
+	display: block;
+	color: black;
+	text-decoration: none;
+	float: left;
+	padding:20px;
 }
 
 #models 
@@ -43,15 +53,6 @@ nav {
 		box-sizing; 1em;
 		background-color:#c7ccf;
 }
-a {
-	font-weight: 1000;
-	background-color: gray;
-	display: block;
-	color: black;
-	text-decoration: none;
-	float: left;
-	padding:20px;
-}
 
 #models>section {
 	width: 16%;
@@ -60,10 +61,13 @@ a {
 	border: 2px;
 	border-color: black;
 	background-color: #c7ccf;
-}
 
 a:hover {
 	background-color: #aaaaaa;
+}
+
+
+
 }
 
 footer {
@@ -100,10 +104,8 @@ p {
 	letter-spacing: 2px;
 }
 .wrapper {
-	max-width:100%;
-	background-image: url(Images/Gtseats.jpg);
-	background-repeat: no-repeat;
-	background-size: 300px;
+	max-width:60em;
+	margin:auto;
 }
 .clearfix:after { 
 	content: "."; 
