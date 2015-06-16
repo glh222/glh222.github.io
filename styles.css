@@ -39,12 +39,6 @@ nav {
 }
 
 a {
-	font-weight: 1000;
-	background-image: url(Images/Maserati22.jpg);
-	background-repeat:no-repeat;
-	background-size: cover;
-	height: 100vh;
-	background-color: gray;
 	display: block;
 	color: black;
 	text-decoration: none;
