@@ -7,6 +7,16 @@ body {
   font-weight: bold;
 }
 
+header {
+	text-align: center;
+	font-weight: 800;
+	font-style: italic;
+	text-transform: uppercase;
+	font-family: 'Lobster 2', cursive;
+	background-color:#002030;
+	color:#999999;
+}
+
 .slogan { 
 	text-align: center;
 	font-family: 'Lobster 2', cursive;
@@ -19,19 +29,10 @@ body {
 .splash {
 	background-image: url(Images/GT.jpg);
   	background-repeat: no repeat;
-  	background-size: cover;
-  	height: 100vh;
+  	background-size: 100% 100%;
+  	background-repeat: no repeat	
 }
 
-header {
-	text-align: center;
-	font-weight: 800;
-	font-style: italic;
-	text-transform: uppercase;
-	font-family: 'Lobster 2', cursive;
-	background-color:#002030;
-	color:#999999;
-}
 
 nav {
 	font-family: 'Lobster 2, cursive;
