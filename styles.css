@@ -27,9 +27,9 @@ header {
 }
 
 .splash {
-	background-image: url(Images/Maserati222.jpg);
-  	background-repeat: no repeat;
-  	background-size: auto;	
+	background-image: url(Images/GT.jpg);
+  	background-repeat: no-repeat;
+  	background-size: cover;	
 }
 
 
