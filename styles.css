@@ -1,7 +1,7 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
   font-size: 20px;
-  font-family: 'Lobster Two', cursive;
+  font-family: 'Lato', cursive;
   font-size: 22px;
   color: black;
   font-weight: bold;
@@ -19,7 +19,7 @@ header {
 
 .slogan { 
 	text-align: center;
-	font-family: 'Lobster 2', cursive;
+	font-family: 'Lato 2', cursive;
 	font-weight: 800;
 	line-height: 40px;
 	background-color: #c7ccf
@@ -34,7 +34,7 @@ header {
 
 
 nav {
-	font-family: 'Lobster 2, cursive;
+	font-family: 'Lato, cursive;
 	background-color: #c7ccf;
 }
 
@@ -77,7 +77,7 @@ footer {
 }
 
 h1 {
-	font-family: Lobster 2, cursive;
+	font-family: Lato, cursive;
 	font-size: 2em;
 	text-transform: uppercase;
 	color blue;
