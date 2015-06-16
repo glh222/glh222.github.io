@@ -5,6 +5,10 @@ body {
   font-size: 22px;
   color: black;
   font-weight: bold;
+  background-image: url(Images/GT.jpg);
+  background-repeat: no repeat;
+  background-size: cover;
+  height: 100vh;
 }
 
 .slogan { 
@@ -66,9 +70,6 @@ a:hover {
 	background-color: #aaaaaa;
 }
 
-
-
-}
 
 footer {
 	color: blue;
