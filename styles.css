@@ -4,29 +4,13 @@ body {
   font-family: 'Roboto', sans-serif;
   color: black;
   font-weight: bold;
-  background-image: url(Images/GhibliSnow.jpg);
+  background-image: url(Images/Maserati2.jpg);
   background-repeat: no-repeat;
-  background-size: 50vh;
+  background-size: 100vh;	
+  text-align: center;
+  font-weight: 800;
 }
-
-.slogan { 
-	text-align: center;
-	font-family: 'Roboto', sans-serif;
-	font-weight: 800;
-	line-height: 18px;
-	background-color: #c7ccf
-	font-size: 18px;
-	text-align: center;
-	font-weight: 800;
-	font-style: italic;
-	text-transform: uppercase;
-	font-family: 'Roboto', sans-serif;
-	background-color:#002030;
-	color:#999999;
-	background-image: url(Images/Maserati2.jpg);
-  	background-repeat: no-repeat;
-  	background-size: 100%;	
-}
+	
 
 nav {
 	font-family: 'Roboto', sans-serif;
@@ -48,6 +32,7 @@ a {
 		margin: .5em;
 		box-sizing; 1em;
 		background-color:#c7ccf;
+		float: left;
 }
 
 #models>section {
