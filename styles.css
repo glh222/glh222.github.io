@@ -17,21 +17,18 @@ header {
 	font-family: 'Roboto', sans-serif;
 	background-color:#002030;
 	color:#999999;
+	background-image: url(Images/Maserati2.jpg);
+  	background-repeat: no-repeat;
+  	background-size: 100%;	
 }
 
 .slogan { 
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 800;
-	line-height: 40px;
+	line-height: 18px;
 	background-color: #c7ccf
-	font-size: 18px;
-}
-
-.splash {
-	background-image: url(Images/Maserati2.jpg);
-  	background-repeat: no-repeat;
-  	background-size: 100%;	
+	font-size: 20px;
 }
 
 
