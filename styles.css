@@ -6,6 +6,7 @@ body {
   color: black;
   font-weight: bold;
   background-image: url(Images/GhibliSnow.jpg);
+  background-repeat: no-repeat;
   background-size: 50vh;
 }
 
