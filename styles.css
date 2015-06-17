@@ -2,16 +2,24 @@
 body {
   font-size: 20px;
   font-family: 'Roboto', sans-serif;
-  color: black;
+  color: silver;
   font-weight: bold;
   background-image: url(Images/Maserati2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-height: 100vh;	
+  height: 100vh;	
   text-align: center;
   font-weight: 800;
 }
 	
+#slogan {
+	font-size: 1.5em;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+  	font-weight: 800;
+  	font-weight: bold;
+  	color: silver;
+}
 
 nav {
 	font-family: 'Roboto', sans-serif;
