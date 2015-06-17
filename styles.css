@@ -9,7 +9,13 @@ body {
   background-size: 50vh;
 }
 
-header {
+.slogan { 
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 800;
+	line-height: 18px;
+	background-color: #c7ccf
+	font-size: 18px;
 	text-align: center;
 	font-weight: 800;
 	font-style: italic;
@@ -21,16 +27,6 @@ header {
   	background-repeat: no-repeat;
   	background-size: 100%;	
 }
-
-.slogan { 
-	text-align: center;
-	font-family: 'Roboto', sans-serif;
-	font-weight: 800;
-	line-height: 18px;
-	background-color: #c7ccf
-	font-size: 20px;
-}
-
 
 nav {
 	font-family: 'Roboto', sans-serif;
