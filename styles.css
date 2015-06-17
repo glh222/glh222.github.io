@@ -5,6 +5,8 @@ body {
   font-size: 22px;
   color: black;
   font-weight: bold;
+  background-image: url(Images/GhibliSnow.jpg);
+  background-size: 50vh;
 }
 
 header {
@@ -12,9 +14,11 @@ header {
 	font-weight: 800;
 	font-style: italic;
 	text-transform: uppercase;
-	font-family: 'Lobster 2', cursive;
+	font-family: 'Lato 2', cursive;
 	background-color:#002030;
 	color:#999999;
+	padding: auto;
+	margin: auto;
 }
 
 .slogan { 
@@ -27,9 +31,10 @@ header {
 }
 
 .splash {
-	background-image: url(Images/GT.jpg);
+	background-image: url(Images/Maserati2.jpg);
   	background-repeat: no-repeat;
   	background-size: cover;	
+  	height: 50vh;
 }
 
 
