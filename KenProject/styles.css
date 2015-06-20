@@ -6,7 +6,7 @@ body {
 	font-style: bold;
 	background-image:url(Images/jobs1.jpg);
 	background-repeat: no-repeat;
-	height: 100vh
+	height: 100%
 }
 
 section#splash {
@@ -31,12 +31,19 @@ header {
 #jobs {
 	font-size: 25px;
 	font-family: 'Lato', sans-serif;
-	color: green;
-	border: 20px solid black;
+	color: green;	
 	line-height: 25px;
-	padding: auto;
+	padding: 1em;
 	float: left;
 }
+
+#main {
+	font-size: 25px;
+	font-family: 'Lato', sans-serif;
+	color: green;	
+	line-height: 25px;
+	padding: 1em;
+} 
 
 #employer {
 	font-size: 25px;
@@ -47,8 +54,16 @@ header {
 }
 
 footer {
-	line-height: 20px;
+	line-height: 15px;
 	color: black;
 	text-align: center;
 	border: 20px solid black;
+}
+
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0; 
+	clear: both;
 }
