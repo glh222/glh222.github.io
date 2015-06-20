@@ -62,6 +62,7 @@ footer {
 	background-color: #c7ccf;
 	text-align: center;
 	width: 100%;
+	position: fixed; bottom: 20px;
 }
 
 h1 {
