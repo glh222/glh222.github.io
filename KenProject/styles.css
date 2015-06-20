@@ -5,7 +5,8 @@ body {
 	font-family: 'Lato', sans-serif;
 	font-style: bold;
 	background-image:url(Images/jobs1.jpg);
-	background-repeat: no-repeat center center fixed;
+	background-repeat: no-repeat 
+	background-size:100px 150px;
 
 section#splash {
 	text-align: center;
