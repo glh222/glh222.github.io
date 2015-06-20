@@ -43,6 +43,10 @@ a {
 		background-color:#c7ccf;
 }
 
+.models {
+	border: 20px solid black;
+}
+
 #models>section {
 	width: 16%;
 	float: left;
@@ -63,6 +67,7 @@ footer {
 	text-align: center;
 	width: 100%;
 	position: fixed; bottom: 20px;
+	margin: 30px;
 }
 
 h1 {
