@@ -5,14 +5,18 @@ body {
 	font-size:45px;
 	font-family: 'Lato', sans-serif;
 	font-style: bold;
+	background-image:url(Images/jobs1.jpg);
+	background-repeat: no-repeat;
+	height: 100vh
 }
 
 section#splash {
-	background-image:url(Images/jobs1.jpg);
 	text-align: center;
 	background-repeat:no-repeat;
-	background-size:cover;	
-	height: 100vh;
+	color:#333;
+	font-size:45px;
+	font-family: 'Lato', sans-serif;
+	font-style: bold;
 }
 
 header {
@@ -29,20 +33,18 @@ header {
 	font-size: 25px;
 	font-family: 'Lato', sans-serif;
 	color: green;
-	text-align: left
 	border: 20px solid black;
-	line-height: 15px;
+	line-height: 25px;
 	padding: auto;
+	float: left;
 }
 
 #employer {
 	font-size: 25px;
 	font-family: 'Lato', sans-serif;
 	color: green;
-	text-align: left
 	border: 20px solid black;
-	line-height: 15px
-	padding: auto;
+	line-height: 25px
 }
 
 footer {
