@@ -1,8 +1,8 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
-  font-size: 20px;
-  font-family: 'Roboto', sans-serif;
-  color: silver;
+  font-size: 30px;
+  font-family: 'Lato', sans-serif;
+  color: green;
   font-weight: bold;
   background-image: url(Images/jobs1.jpg);
   background-repeat: no-repeat;
@@ -26,7 +26,6 @@ body {
 }
 
 #jobs {
-	text-align: center;
 	padding:.5em, auto;
 	margin: .5em;
 	border: 20px black solid;
@@ -36,23 +35,11 @@ body {
   	font-weight: 800;
   	font-weight: bold;
   	color: green;
+  	float: left;
 }
 
-#employer{
-	text-align: center;
-	padding:.5em, auto;
-	margin: .5em;
-	border: 20px black solid;
-	font-size: 1.5em;
-	font-family: 'Lato', sans-serif;
-	text-align: center;
-  	font-weight: 800;
-  	font-weight: bold;
-  	color: green;
-}
 
 #main {
-	text-align: center;
 	padding:.5em, auto;
 	margin: .5em;;
 	font-size: 1,75em;
