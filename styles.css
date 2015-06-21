@@ -40,7 +40,6 @@ a {
 		padding:.5em, auto;
 		margin: .5em;
 		background-color:#c7ccf;
-		border: 20px solid black;
 }
 
 #models>section {
@@ -50,6 +49,7 @@ a {
 	border: 2px;
 	border-color: black;
 	background-color: #c7ccf;
+	border: 20px solid black;
 }
 
 a:hover {
