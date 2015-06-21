@@ -41,7 +41,9 @@ a {
 		padding:.5em, auto;
 		margin: .5em;
 		background-color:#c7ccf;
-		float: left	
+		float: left;
+		border: 20px black solid;
+		border-style: solid;
 }
 
 .models {
