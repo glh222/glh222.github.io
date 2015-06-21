@@ -34,22 +34,19 @@ a {
 	padding:20px;
 }
 
-#models 
+
+#models
 	img {
 		width:100%;
 		padding:.5em, auto;
 		margin: .5em;
 		background-color:#c7ccf;
-}
-
-#models>section {
-	width: 16%;
-	float: left;
-	padding:.8em;
-	border: 2px;
-	border-color: black;
-	background-color: #c7ccf;
-	border: 20px solid black;
+		width: 16%;
+		float: left;
+		padding:.8em;
+		border-color: black;
+		background-color: #c7ccf;
+		border: 20px solid black;
 }
 
 a:hover {
