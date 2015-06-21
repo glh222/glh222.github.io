@@ -15,7 +15,6 @@ body {
 #main {
 	padding:.5em, auto;
 	margin: .5em;
-	border: 20px black solid;
 	font-size: 1.5em;
 	font-family: 'Lato', sans-serif;
   	font-weight: 800;
@@ -28,7 +27,6 @@ body {
 #jobs {
 	padding:.5em, auto;
 	margin: .5em;
-	border: 20px black solid;
 	font-size: 1.5em;
 	font-family: 'Lato', sans-serif;
 	text-align: center;
@@ -40,27 +38,13 @@ body {
 }
 
 
-#main {
-	padding:.5em, auto;
-	margin: .5em;;
-	font-size: 1,75em;
-	font-family: 'Lato', sans-serif;
-	text-align: center;
-  	font-weight: 900;
-  	font-weight: bold;
-  	color: green;
-  	line-height: 1.2em;
-	letter-spacing: 2px;
-} 
-
 #employer {
-	text-align: center;
 	padding:.5em, auto;
 	margin: .5em;;
 	font-size: 1,75em;
 	font-family: 'Lato', sans-serif;
 	text-align: center;
-  	font-weight: 900;
+  	font-weight: 800;
   	font-weight: bold;
   	color: green;
   	line-height: 1.2em;
@@ -71,7 +55,7 @@ footer {
 	line-height: 15px;
 	color: black;
 	text-align: center;
-	border: 20px solid black;
+	border: 10px solid black;
 	width: 100%;
 	position: fixed; bottom: 20px;
 	margin: 30px;
