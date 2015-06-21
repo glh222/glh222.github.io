@@ -37,6 +37,10 @@ a {
 		margin: .5em;	
 }
 
+.models {
+	border: 20px solid black;
+}
+
 #models>section {
 	width: 16%;
 	float: left;
