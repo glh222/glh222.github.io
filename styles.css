@@ -44,42 +44,14 @@ a {
 		float: left	
 }
 
-#models1 {
-	border: 20px solid black;
-	padding:.5em, auto;
-	margin: .5em;
+#models {
+	font-size: 1.5em;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+  	font-weight: 800;
+  	font-weight: bold;
+  	color: white;
 }
-
-#models2 {
-	border: 20px solid black;
-	padding:.5em, auto;
-	margin: .5em;
-}
-
-#models3 {
-	border: 20px solid black;
-	padding:.5em, auto;
-	margin: .5em;
-}
-
-#models4 {
-	border: 20px solid black;
-	padding:.5em, auto;
-	margin: .5em;
-}
-
-#models5 {
-	border: 20px solid black;
-	padding:.5em, auto;
-	margin: .5em;
-}
-
-#models6 {
-	border: 20px solid black;
-	padding:.5em, auto;
-	margin: .5em;
-}
-
 
 a:hover {
 	background-color: #aaaaaa;
