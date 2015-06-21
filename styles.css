@@ -35,7 +35,7 @@ a {
 }
 
 
-.models
+#models
 	img {
 		width:100%;
 		padding:.5em, auto;
@@ -43,16 +43,12 @@ a {
 		background-color:#c7ccf;
 		float: left;
 		border: 20px black solid;
-		border-style: solid;
-}
-
-.models {
-	font-size: 1.5em;
-	font-family: 'Roboto', sans-serif;
-	text-align: center;
-  	font-weight: 800;
-  	font-weight: bold;
-  	color: white;
+		font-size: 1.5em;
+		font-family: 'Roboto', sans-serif;
+		text-align: center;
+  		font-weight: 800;
+  		font-weight: bold;
+  		color: white;
 }
 
 a:hover {
