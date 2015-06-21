@@ -38,14 +38,10 @@ a {
 #models
 	img {
 		width:100%;
-		padding:.5em, auto;
 		margin: .5em;
 		background-color:#c7ccf;
-		width: 16%;
 		float: left;
-		padding:.8em;
-		border-color: black;
-		background-color: #c7ccf;
+		padding:.8em'	
 }
 
 #models1 {
