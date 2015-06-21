@@ -46,8 +46,32 @@ a {
 		padding:.8em;
 		border-color: black;
 		background-color: #c7ccf;
-		border: 20px solid black;
 }
+
+#models1 {
+	border: 20px solid black;
+}
+
+#models2 {
+	border: 20px solid black;
+}
+
+#models3 {
+	border: 20px solid black;
+}
+
+#models4 {
+	border: 20px solid black;
+}
+
+#models5 {
+	border: 20px solid black;
+}
+
+#models6 {
+	border: 20px solid black;
+}
+
 
 a:hover {
 	background-color: #aaaaaa;
