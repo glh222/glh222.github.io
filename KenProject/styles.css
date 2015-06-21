@@ -13,16 +13,16 @@ body {
 }
 
 #main {
-	text-align: center;
 	padding:.5em, auto;
 	margin: .5em;
 	border: 20px black solid;
 	font-size: 1.5em;
 	font-family: 'Lato', sans-serif;
-	text-align: center;
   	font-weight: 800;
   	font-weight: bold;
   	color: green;
+  	line-height: 1.2em;
+	letter-spacing: 2px;
 }
 
 #jobs {
@@ -35,7 +35,8 @@ body {
   	font-weight: 800;
   	font-weight: bold;
   	color: green;
-  	float: left;
+  	line-height: 1.2em;
+	letter-spacing: 2px;
 }
 
 
@@ -48,7 +49,8 @@ body {
   	font-weight: 900;
   	font-weight: bold;
   	color: green;
-  	line-height: 25px;
+  	line-height: 1.2em;
+	letter-spacing: 2px;
 } 
 
 #employer {
@@ -61,7 +63,8 @@ body {
   	font-weight: 900;
   	font-weight: bold;
   	color: green;
-  	line-height: 25px;
+  	line-height: 1.2em;
+	letter-spacing: 2px;
 }
 
 footer {
