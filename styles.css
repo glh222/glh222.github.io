@@ -39,13 +39,8 @@ a {
 		width:100%;
 		padding:.5em, auto;
 		margin: .5em;
-		box-sizing; 1em;
 		background-color:#c7ccf;
 		border: 20px solid black;
-}
-
-.models {
-	border: 20px solid black;
 }
 
 #models>section {
