@@ -21,34 +21,20 @@ body {
   	color: white;
 }
 
-nav {
-	font-family: 'Roboto', sans-serif;
-	background-color: #c7ccf;
-}
-
 a {
 	display: block;
 	color: black;
 	text-decoration: none;
 	float: left;
 	padding:20px;
-}
-
-style {
-	border: 20px solid black;
-	display: block;
+	background: 20px solid black;
 }
 
 #models 
 	img {
 		width:100%;
 		padding:.5em, auto;
-		margin: .5em;
-		background-color:#c7ccf;		
-}
-
-.models {
-	border: 20px solid black;
+		margin: .5em;	
 }
 
 #models>section {
