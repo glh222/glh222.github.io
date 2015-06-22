@@ -27,7 +27,7 @@ body {
 #jobs {
 	padding:.5em, auto;
 	margin: .5em;
-	font-size: 1.5em;
+	font-size: 1.2em;
 	font-family: 'Lato', sans-serif;
 	text-align: center;
   	font-weight: 800;
@@ -42,8 +42,8 @@ body {
 
 #employer {
 	padding:.5em, auto;
-	margin: .5em;;
-	font-size: 1.5em;
+	margin: .5em;
+	font-size: 1.2em;
 	font-family: 'Lato', sans-serif;
 	text-align: center;
   	font-weight: 800;
@@ -62,7 +62,7 @@ footer {
 	width: 100%;
 	position: fixed; bottom: 20px;
 	margin: 30px;
-	padding: ..5px;
+	padding: .5px;
 }
 
 .clearfix:after { 
